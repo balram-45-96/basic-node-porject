@@ -1,1 +1,1 @@
-# test-ex
+Basic node js project.
